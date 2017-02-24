@@ -1,1 +1,2 @@
-second commit txt
+second commit txt 
+creating a new branck is quick.
